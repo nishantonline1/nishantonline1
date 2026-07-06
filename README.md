@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:378ADD&height=120&section=header&text=Nishant%20Singh&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Engineering%20Leader%20%7C%20Built%20a%20B2B%20platform%27s%20engineering%20org%20from%20zero&descSize=13&descAlignY=85&descColor=b5d4f4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:378ADD&height=100&section=header" width="100%"/>
 
-# Director of Engineering candidate
+# Nishant Singh
 
-**9+ years scaling product engineering 0→1→growth · Currently Senior EM at NowPurchase, reporting to CTO**
+**Engineering Leader · 9+ years scaling product engineering from 0→1→growth**
+
+Senior Engineering Manager at NowPurchase, reporting to CTO · Kolkata, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-technishant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/technishant/)
 [![Email](https://img.shields.io/badge/Email-nishantonline1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nishantonline1@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-1a1a2e?style=flat&logo=readme&logoColor=white)](https://www.linkedin.com/in/technishant/)
+[![GitHub](https://img.shields.io/badge/GitHub-nishantonline1-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/nishantonline1)
 
 </div>
 
-> **Open to:** Director of Engineering · Head of Engineering · Senior EM (high-scope)<br>
+> **Open to:** Senior engineering leadership roles — Engineering Manager (high-scope) · Director of Engineering · Head of Engineering<br>
 > **Location:** Kolkata, India · **Open to relocation** (India & international)<br>
-> **Availability:** Actively interviewing
+> **Availability:** Actively exploring opportunities
 
 ---
 
@@ -29,24 +31,15 @@
 
 ## Impact, in numbers
 
-> ### 40% ⚡
-> **Order processing efficiency** improvement through workflow optimization
+> ### 40% ⚡ · 99.5%+ 🟢
+> **Order processing efficiency** improvement through workflow optimization · **System uptime**, with production incidents down **35%** YoY
 
-> ### 99.5%+ 🟢
-> **System uptime**, with production incidents reduced by **35%** YoY
-
-> ### 20% 💰
-> **AWS infrastructure cost reduction** via right-sizing and architectural improvements
-
-> ### 30% 📈
-> **Sprint predictability improvement** after establishing a DORA metrics program
-
-> ### 25% 🚀
-> **On-time delivery improvement** from Agile/Scrum rollout across squads
+> ### 20% 💰 · 30% 📈 · 25% 🚀
+> **AWS cost reduction** via right-sizing and architecture · **Sprint predictability** gain from a DORA metrics program · **On-time delivery** improvement from Agile/Scrum rollout
 
 ---
 
-## What I bring to a Director role
+## What I bring
 
 **1 · Org building & leadership**
 
@@ -162,7 +155,7 @@ Operate as technical partner to product and leadership: DORA metrics tied to bus
 
 ### Let's talk
 
-**Hiring a Director / Head of Engineering?**
+**Building something ambitious and need an engineering leader?**
 
 📧 [nishantonline1@gmail.com](mailto:nishantonline1@gmail.com) · 💼 [linkedin.com/in/technishant](https://www.linkedin.com/in/technishant/)
 
