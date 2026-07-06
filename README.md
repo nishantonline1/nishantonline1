@@ -12,8 +12,8 @@
 
 </div>
 
-> **Open to:** Director of Engineering · Head of Engineering · Senior EM (high-scope)
-> **Location:** Kolkata, India · **Open to relocation** (India & international)
+> **Open to:** Director of Engineering · Head of Engineering · Senior EM (high-scope)<br>
+> **Location:** Kolkata, India · **Open to relocation** (India & international)<br>
 > **Availability:** Actively interviewing
 
 ---
@@ -49,12 +49,15 @@
 ## What I bring to a Director role
 
 **1 · Org building & leadership**
+
 Hired, grew, and retained a cross-functional engineering team from 1 (me) to 9 directs + indirect functions. Established code review culture, mentorship programs, structured career growth, and delivery processes that survived company scaling — including accelerated COVID-era delivery cycles.
 
 **2 · Technical depth that hasn't atrophied**
+
 Architected microservices handling high-volume B2B transactions on AWS. Active in design reviews and architecture decisions. Led applied-AI initiatives: LLM orchestration, RAG pipelines, and agentic workflows shipped to production — not slideware.
 
 **3 · Business-aligned execution**
+
 Operate as technical partner to product and leadership: DORA metrics tied to business outcomes, infra cost reduction with zero reliability trade-off, and roadmap ownership with dates I'm accountable for.
 
 ---
@@ -62,6 +65,7 @@ Operate as technical partner to product and leadership: DORA metrics tied to bus
 ## Career arc
 
 **NowPurchase** · Industrial Procurement & Manufacturing Platform · Kolkata
+
 *One company, four promotions — I built the engineering function the company scaled on.*
 
 ```
@@ -159,6 +163,7 @@ Operate as technical partner to product and leadership: DORA metrics tied to bus
 ### Let's talk
 
 **Hiring a Director / Head of Engineering?**
+
 📧 [nishantonline1@gmail.com](mailto:nishantonline1@gmail.com) · 💼 [linkedin.com/in/technishant](https://www.linkedin.com/in/technishant/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1a1a2e&height=80&section=footer" width="100%"/>
